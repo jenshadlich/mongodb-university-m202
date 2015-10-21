@@ -1,4 +1,4 @@
- Homework: 2.2: Operating at reduced capacity
+Homework: 2.2: Operating at reduced capacity
 
 You are running a service with a predictable traffic usage pattern. Every Monday the usage peaks at 100,000 reads/sec on your replica set at 17:00 UTC.
 
